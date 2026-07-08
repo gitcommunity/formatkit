@@ -1,5 +1,4 @@
 
-Formatting tool. Simplified colorama.
 ```python
 pip install formatkit
 ```
